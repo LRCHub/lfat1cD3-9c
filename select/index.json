@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "GET MY FUTURE",
+  "base_artist": "Cyber Nation Network",
+  "createdAt": "2026-03-15T13:03:03.255412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get My Future (instrumental)",
+      "artist": "Cyber Nation Network",
+      "has_synced": false,
+      "path": "select/01_Get_My_Future_(instrumental)_Cyber_Nation_Network.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get My Future (normal version)",
+      "artist": "Cyber Nation Network",
+      "has_synced": true,
+      "path": "select/02_Get_My_Future_(normal_version)_Cyber_Nation_Network.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GET MY FUTURE",
+      "artist": "CYBER NATION NETWORK",
+      "has_synced": true,
+      "path": "select/03_GET_MY_FUTURE_CYBER_NATION_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Get My Thang In Action",
+      "artist": "Method Man",
+      "has_synced": true,
+      "path": "select/04_I_Get_My_Thang_In_Action_Method_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Eruption (Gonna Get My Hair cut at the End of the Summer)",
+      "artist": "TOBACCO",
+      "has_synced": false,
+      "path": "select/05_Eruption_(Gonna_Get_My_Hair_cut_at_the_End_of_the_Summer)_TOBACCO.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Till I Get My Way",
+      "artist": "The Black Keys",
+      "has_synced": true,
+      "path": "select/06_Till_I_Get_My_Way_The_Black_Keys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Somebody Get My Mom - Bonus Track",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/07_Somebody_Get_My_Mom_-_Bonus_Track_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Somebody Get My Mom",
+      "artist": "Bowling for Soup",
+      "has_synced": true,
+      "path": "select/08_Somebody_Get_My_Mom_Bowling_for_Soup.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get My Math",
+      "artist": "Agnes",
+      "has_synced": true,
+      "path": "select/09_Get_My_Math_Agnes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Can't Get My Head Around It",
+      "artist": "Aimee Mann",
+      "has_synced": false,
+      "path": "select/10_I_Can't_Get_My_Head_Around_It_Aimee_Mann.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Get My Love",
+      "artist": "P!nk",
+      "has_synced": true,
+      "path": "select/11_You_Get_My_Love_P!nk.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "(Can't Get My) Head Around You",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/12_(Can't_Get_My)_Head_Around_You_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "(Can't Get My) Head Around You + Next To You",
+      "artist": "The Offspring",
+      "has_synced": true,
+      "path": "select/13_(Can't_Get_My)_Head_Around_You_+_Next_To_You_The_Offspring.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Make Me Get My Fat Lazy Ass Off This Couch",
+      "artist": "The Vandals",
+      "has_synced": true,
+      "path": "select/14_Don't_Make_Me_Get_My_Fat_Lazy_Ass_Off_This_Couch_The_Vandals.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wait Until I Get My Hands On You",
+      "artist": "The Paper Chase",
+      "has_synced": true,
+      "path": "select/15_Wait_Until_I_Get_My_Hands_On_You_The_Paper_Chase.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Come Get My Love",
+      "artist": "TKA",
+      "has_synced": false,
+      "path": "select/16_Come_Get_My_Love_TKA.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "When I Get My Hands On You",
+      "artist": "The New Basement Tapes",
+      "has_synced": false,
+      "path": "select/17_When_I_Get_My_Hands_On_You_The_New_Basement_Tapes.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I'm A Go And Get My...",
+      "artist": "Busta Rhymes feat. Mike Epps",
+      "has_synced": false,
+      "path": "select/18_I'm_A_Go_And_Get_My..._Busta_Rhymes_feat._Mike_Epps.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "I'm a Go and Get My... (feat. Mike Epps)",
+      "artist": "Busta Rhymes",
+      "has_synced": false,
+      "path": "select/19_I'm_a_Go_and_Get_My..._(feat._Mike_Epps)_Busta_Rhymes.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "C'mon and Get My Love (Spaghetti Western mix)",
+      "artist": "Cathy Dennis",
+      "has_synced": false,
+      "path": "select/20_C'mon_and_Get_My_Love_(Spaghetti_Western_mix)_Cathy_Dennis.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "C’mon and Get My Love (Spaghetti Western mix)",
+      "artist": "Cathy Dennis",
+      "has_synced": false,
+      "path": "select/21_C’mon_and_Get_My_Love_(Spaghetti_Western_mix)_Cathy_Dennis.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "C'mon and Get My Love (Dance Hall mix)",
+      "artist": "Cathy Dennis",
+      "has_synced": false,
+      "path": "select/22_C'mon_and_Get_My_Love_(Dance_Hall_mix)_Cathy_Dennis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GET MY FUTURE",
+      "artist": "Cyber Nation Network",
+      "has_synced": false,
+      "path": "select/pl_01_GET_MY_FUTURE_Cyber_Nation_Network.txt"
+    }
+  ]
+}
